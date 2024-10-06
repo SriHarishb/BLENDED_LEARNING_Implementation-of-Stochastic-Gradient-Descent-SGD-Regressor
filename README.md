@@ -1,6 +1,9 @@
 # BLENDED_LEARNING
 # Implementation-of-Stochastic-Gradient-Descent-SGD-Regressor
 
+### Name - Sri Harish B
+### Reg No - 212223220110
+
 ## AIM:
 To write a program to implement Stochastic Gradient Descent (SGD) Regressor for linear regression and evaluate its performance.
 
